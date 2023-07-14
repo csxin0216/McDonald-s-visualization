@@ -1,4 +1,4 @@
-# About McDonald's-visualization
+# About it
 McDonald's的可视化分析，包括动态和交互可视化，用到Tableau和python。分析了McDonald's的菜单成分、商业发展和与其他快餐品牌的比较。
 
 # How to use
@@ -6,7 +6,7 @@ McDonald's的可视化分析，包括动态和交互可视化，用到Tableau和
 2. 安装插件Live Server后，右击poster.html，选择open with live server
 3. 用户可通过点击来实现动态和交互可视化
 
-# Details
+# More Details
 This research investigation regarding McDonald's primarily focus on three aspects:
 1. Firstly, we examine the composition of McDonald's menu offerings, providing an overview of the items and ingredients used in their food products, as well as analyzing the diversity and variety of options available to customers.
 2. Secondly, we explore the historical development of McDonald's. This will involve a comprehensive analysis of the company's growth and development over the years, including an examination of any significant changes that may have taken place. Additionally, we will investigate the strategies implemented by McDonald's to cater to the specific needs and demands of different countries, studying the methods employed to maintain and increase its popularity in recent times.
