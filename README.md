@@ -1,5 +1,7 @@
 # About it
 McDonald's的可视化分析，包括动态和交互可视化，用到Tableau和python。分析了McDonald's的菜单成分、商业发展和与其他快餐品牌的比较。
+* Python viz link: https://colab.research.google.com/drive/1ZNuKOJBw2Abevm5u4kd_enKXUxRmpAAr?usp=drive_link
+* Tableau viz link: https://public.tableau.com/app/profile/xu.shenxin
 
 # How to use
 1. 解压文件夹，并在vscode内打开；
