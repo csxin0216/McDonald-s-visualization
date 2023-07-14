@@ -1,0 +1,105 @@
+Category,Item,Per Serve Size,Energy (kCal),Carbohydrates (g),Protein (g),Fiber (g),Sugar (g)
+Chicken,Original Recipe,147,342.2,54.6,8.9,12,6.32
+Chicken,Hot & Crispy Chicken,294,684.4,54.6,17.7,12,6.32
+Chicken,Extra Crispy,334,787.4,56.8,41.3,5,3.72
+Chicken,Kentucky Grilled Chicken (AKA KGC),294,684.4,54.6,17.7,12,6.32
+Chicken,Honey BBQ Chicken,334,787.4,56.8,41.3,5,3.72
+Chicken,Hot Wings Grilled Chicken,225,588.7,33.8,37.6,16,2.79
+Chicken,Hot Wings Fried Chicken,230,999.9,68.5,27.4,13,0
+Chicken,KFC Fried Gizzards,253,481,39.53749216,13.36155821,9,0
+Chicken,Nashville Hot Chicken,262,614,27.31032856,12.46627523,7,1.98
+Chicken,Georgia Gold,255,593,24.01064098,7.978410551,18,0
+Chicken,Kentucky Nuggets,125,605,22.30029835,9.548138759,8,0
+Chicken,Popcorn Chicken,80,272,39.90401122,15,11,0
+Chicken,Grilled Chicken,262,457,30.54526337,9.306837429,18,0
+Chicken,Popcorn Nuggets,110,374,24.7,20.6,10,0
+Chicken,Popcorn Nuggets,170,578,38.2,31.8,20,0
+Chicken,Extra Crispy Tenders,267,552,,13.09444422,12,0
+Burger/Sandwishces,Zinger,212,433.2,46.2,15.9,14,0
+Burger/Sandwishces,Honey BBQ Chicken Sandwich,261,406,21.45769805,31.9,11,0
+Burger/Sandwishces,Chicken Little,109,699,36.89430215,63.7,8,0
+Burger/Sandwishces,Colonel Burger,266,573,37.81011122,95.6,11,14.13
+Burger/Sandwishces,KFC Shrimp Burger (aka KSB),281,615,28.0486499,127.4,11,11.51
+Burger/Sandwishces,Double Crunch,200,559,28.61966899,89.3,11,7.21
+Burger/Sandwishces,Double Down,114,567,26.01387403,178.6,12,6.32
+Burger/Sandwishces,Cheetos Sandwitch,296,688,38.43352175,106.6,9,8.1
+Burger/Sandwishces,Original Recipe Fillet Burger,258,688,33.7771289,127.9,8,0
+Others,Original Recipe Twister Wrap,208,190,29.46999036,10.07446423,5,3.72
+Others,KGC Twister Wrap,250,124,36.00504405,8.475289646,13,0
+Others,Nashville Hot Twister Wrap,168,148,29.54424206,8.270933427,12,5.75
+Others,Georgia Gold Twister Wrap,141,153,38.81256028,10.55871208,12,6.32
+Others,Honey BBQ Twister Wrap,217,158,24.57595409,17.02511904,5,3.72
+Others,Whole Kernel Corn,263,170,23.8527287,15.46393048,16,2.79
+Others,Mashed Potatoes and Gravy,218,197,21.64713552,16.49828782,9,0
+Sides,French Fries,105,176,25.0757869,16.3470869,19,0
+Sides,Whipped Potato?,189,167,34.0135004,20.45598667,19,0
+Sides,Mashed Potato with Gravy,131,170,36.13795283,7.620060303,28,0
+Sides,Seasoned Potato Wedges,263,162,22.74939342,16.44222472,25,0
+Sides,Mac and Cheese,155,157,21.92043195,15.83768089,22,0
+Sides,Coleslaw,236,127,40.91165306,8.513695318,45,0
+Sides,Green Beans,273,132,39.23830037,10.98024104,4,0
+Sides,Baked Beans,185,143,37.10466505,0,7,0
+Drinks,Coca-Cola,169,127,34.19558418,0,14,0
+Drinks,Diet Coke,202,141,23.96825433,0,9,0
+Drinks,Cherry Coke,186,178,32.80590747,0,11,0
+Drinks,Sprite,135,123,20.87735807,0,10,0
+Drinks,Fanta,223,175,29.78083934,0,18,0
+Drinks,Mirinda,282,106,38.15630284,0,23,0
+Drinks,POP! Cola,205,165,22.89350065,0,16,0
+Drinks,POP! Orange,290,140,36.1338886,0,13,10.53
+Drinks,POP! Lemon,134,110,39.07394442,0,19,0
+Drinks,POP! Cherry,227,119,20.42664277,0,6,1.16
+Drinks,POP! Zero,150,155,29.64401932,0,17,0
+Drinks,Dr. Pepper,244,152,35.16243507,0,23,0
+Drinks,RC Cola,297,181,34.1057737,0,9,0
+Drinks,Chocolate Milkshake,278,198,40.62019844,8.830696742,7,0
+Drinks,Mango Milkshake,235,200,29.29206325,10.92892152,18,0
+Drinks,Strawberry Milkshake,106,173,27.60856098,17.17200229,8,0
+Drinks,Vanilla Milkshake,118,159,31.83855295,19.57537009,11,34.1
+Drinks,Banana Milkshake,154,199,30.0419909,20.97582574,18,34
+Drinks,Oreo Milkshake,143,104,30.61512083,8.909460355,10,22.32
+Drinks,Iced-Tea,295,192,35.01517608,15.30162455,20,0
+Drinks,Lemonade (aka Lemon Juice),102,133,31.72828259,16.08617209,12,0
+Drinks,Lemon Iced-Tea,202,102,20.02835697,15.61841913,14,0
+Drinks,Strawberry Iced-Tea,231,144,26.90125959,7.09375356,11,35.97
+Desserts,Chocolate Chip Cookie,272,114,37.87774421,15.41792752,8,45.54
+Desserts,Chocolate Cream Little Bucket Parfait,117,173,34.32743534,16.59934884,11,38.61
+Desserts,Strawberry Cream Little Bucket Parfait,183,200,38.76331962,20.2396414,11,40.59
+Desserts,Plain Vanilla Ice Cream,194,156,35.1266567,20.90486187,11,1.6
+Desserts,Chocolate Chip Ice Cream,142,141,22.76780794,12.44648693,12,1.28
+Desserts,Strawberry Swiss Ice Cream,181,118,39.70516696,19.18077829,9,1.42
+Desserts,Mint Chip Ice Cream,111,162,36.25828534,13.67963185,8,2.5
+Desserts,Oreo Blast Ice Cream (formerly known as "Oreo Blizzard"),241,175,20.96264589,18.45845107,5,1.4
+Desserts,Banana Split Ice Cream,109,200,34.28488076,15.7834395,13,1.4
+Desserts,Mango Superior Ice Cream,147,127,38.2674728,17.45511485,12,1.6
+Desserts,Grape Chomp Ice Cream,139,176,24.0662348,19.25088592,12,21.8
+Desserts,Cherry Berry Ice Cream,176,161,37.50070059,13.88194056,5,23.4
+Desserts,Blue Berry Ice Cream,174,107,28.90945323,17.54270397,16,27.6
+Desserts,Raspberry Rash Ice Cream,239,102,21.43933892,7.867161998,9,36.3
+Desserts,Choco Mint Ice Cream,296,171,22.83607454,12.04463226,19,0
+Desserts,Hazelnut Blast Ice Cream,134,123,34.51665565,17.72054518,19,22
+Desserts,Pistachio Almond Ice Cream,246,123,31.69256014,11.13196409,28,0
+Desserts,Chocolate Chip Cake,231,159,35.45657586,16.36793814,25,0
+Desserts,Egg Tart,271,154,35.56691932,15.97723057,22,0
+Meals,Little Bucket Kids Meal,181,418,36.86770955,70,45,23.4
+Meals,Chicken Big Box Meal,147,656,21.41091929,45,4,27.6
+Meals,Tenders & Popcorn Big Box Meal,254,403,33.27305953,56,7,36.3
+Meals,Zinger & Chicken Big Box Meal,110,466,22.57368747,78,14,0
+Meals,"3 Extra Crispy Tenders, Larger Mashed Potatoes, Biscuit, Cookie, Medium Drink, Dipping Sauce",340,1156,38.2,63.6,9,22
+Meals,"Famous Bowl, Cookie, Medium Drink",455,1323.5,32.3,79.6,11,26
+Meals,"Chicken Breast, Larger Mashed Potatoes, Biscuit, Cookie, Medium Drink",460,1195.4,34.5,90.1,10,24
+Meals,"Pot Pie, Cookie, Medium Drink",312,1012,24,98.5,18,27.6
+Meals,"8 Pc. Chicken, 2 Large Sides, 4 Biscuits (Feeds 4+)",712,1434.5,27.6,108.1,23,10.53
+Meals,"12 Pc. Chicken, 3 Large Sides, 6 Biscuits (Feeds 6+)",451.5,1022.6,24.4,34.9,16,22
+Meals,"16 Pc. Chicken, 4 Large Sides, 8 Biscuits (Feeds 8+)",732,1758.2,27.9,149,13,26
+Meals,"Tenders Meal: 12 Tenders, 2 Large Sides, 4 Biscuits, 6 Sauces (Feeds 4+)",693.5,2131.4,41.1,124.8,19,24
+Meals,"Tenders and Wedges for 2: 6 Tenders, Large Wedges, 2 Sauces (Feeds 2+)",544,984.89 ,27.86845118,154,6,27.6
+Meals,"1 Drumstick, 1 Chicken Little, 1 Tender, or Popcorn Nuggets",672,789.14 ,36.62824166,90,17,10.53
+Meals,3 Pc. Chicken Box,515,1050.76 ,31.10741776,87,23,22
+Meals,2. Pc. Chicken and Small Popcorn Nuggets Box,645,397.45 ,40.49499745,130,9,26
+Meals,3 Tenders and Popcorn Nuggets Box,595,137.03 ,22.78931689,156,7,24
+Meals,Popcorn Nuggets Combo,646,1106.49 ,32.63227694,142,18,27.6
+Meals,2 Pc. Combo,644,703.69 ,26.24009087,147,8,10.53
+Meals,2 Chicken Littles Combo,518,338.50 ,39.46510971,109,11,22
+Meals,3 Tenders Combo,592,751.20 ,23.93839049,142,18,26
+Meals,Doublicious Combo,648,492.76 ,33.43720201,59,10,24
